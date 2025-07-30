@@ -43,7 +43,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am problem solver and have hands-on experience with the MERN stack for full stack web development, along with strong proficiency in C++, JavaScript, and Python. I design responsive and modern UIs using Tailwind CSS and work with tools like Redux, VScode, Gothub. My backend skills include building secure APIs, implementing authentication, and managing databases using MongoDB and MySQL.I have a solid knowledge in DSA, OOP, DBMS.
+            I am problem solver and have hands-on experience with the MERN stack for full stack web development, along with strong proficiency in C++, JavaScript, and Python. I design responsive and modern UIs using Tailwind CSS and work with tools like Redux, VScode, Github. My backend skills include building secure APIs, implementing authentication, and managing databases using MongoDB and MySQL.I have a solid knowledge in DSA, OOP, DBMS.
           </p>
           {/* Resume Button */}
           <a
